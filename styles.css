@@ -1,11 +1,9 @@
-h1 {
+h1, h2 {
     text-align: center;
-}
-
-.header {
-    background-image: url(images/homepage_images/MaehamaBeachSunset_1.jpg);
 }
 
 .headingImage{
     width: 80%;
+    margin-right: auto;
+    margin-left: auto;
 }
