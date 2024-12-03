@@ -12,21 +12,21 @@ h1, h2 {
     display: inline-block;
     margin-left: 20px;
     margin-right: 20px;
-    color: aqua;
+    color: #FFDDAE;
 }
 
 header {
-    background-color: lightgray;
+    background-color: #D4F6FF;
 }
 
 a {
-    color: lightskyblue;
+    color: #FFDDAE;
 }
 
 a:visited {
-    color: lightskyblue;
+    color: rgb(168, 139, 86);
 }
 
 a:hover {
-    color: wheat;
+    color: rgb(168, 139, 86);
 }
