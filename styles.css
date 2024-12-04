@@ -45,6 +45,12 @@ a:hover {
     color: rgb(168, 139, 86);
 }
 
+.blogLink {
+    width: fit-content;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+}
+
 .blogLinkImg {
     display: inline-block;
     width: 30%;
