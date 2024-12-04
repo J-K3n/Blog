@@ -14,8 +14,8 @@ h1, h2 {
 
 .headLink {
     display: inline-block;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
     color: #FFDDAE;
     text-align: center;
 }
@@ -37,5 +37,8 @@ a:hover {
 }
 
 .blogLink {
-    
+    display: inline-block;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
 }
