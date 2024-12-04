@@ -6,6 +6,11 @@ h1, h2 {
     text-align: center;
 }
 
+.headingFig{
+    text-align: right;
+    padding-right: 20%;
+}
+
 .headingImg{
     width: 80%;
     margin-right: auto;
