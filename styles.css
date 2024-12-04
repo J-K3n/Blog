@@ -49,6 +49,7 @@ a:hover {
     width: 30%;
     aspect-ratio: 1/1;
     overflow: hidden;
+    background-color: white;
 }
 
 .blogLinkImg {
