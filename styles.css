@@ -7,6 +7,7 @@ h1, h2 {
 }
 
 .headingFig {
+    width: auto;
     margin-right: auto;
     margin-left: auto;
     display: block;
