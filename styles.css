@@ -6,7 +6,13 @@ h1, h2 {
     text-align: center;
 }
 
-.headingImage{
+.headingFig {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.headingImg{
     width: 80%;
     margin-right: auto;
     margin-left: auto;
