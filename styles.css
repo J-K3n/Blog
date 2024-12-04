@@ -11,7 +11,7 @@ h1, h2, h3, p {
 }
 
 .headingCapt{
-    margin-left: 20%;
+    margin-left: 10%;
 }
 
 .headingImg{
@@ -45,7 +45,7 @@ a:hover {
     color: rgb(168, 139, 86);
 }
 
-.blogLink {
+.blogLinkImg {
     display: inline-block;
     width: 30%;
     margin-right: auto;
