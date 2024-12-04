@@ -2,6 +2,10 @@ h1, h2 {
     text-align: center;
 }
 
+.header {
+    text-align: center;
+}
+
 .headingImage{
     width: 80%;
     margin-right: auto;
