@@ -52,6 +52,11 @@ a:hover {
     padding-left: 20%;
 }
 
+.blogLink:hover {
+   color: #D4F6FF;
+   opacity: .3;
+}
+
 .blogLinkImg {
     display: inline-block;
     width: 30%;
