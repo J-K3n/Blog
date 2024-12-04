@@ -13,6 +13,7 @@ h1, h2 {
     margin-left: 20px;
     margin-right: 20px;
     color: #FFDDAE;
+    text-align: center;
 }
 
 header {
@@ -29,4 +30,8 @@ a:visited {
 
 a:hover {
     color: rgb(168, 139, 86);
+}
+
+.blogLink {
+    
 }
