@@ -46,10 +46,10 @@ a:hover {
 }
 
 .blogLink {
-    width: 30%;
+    width: 20%;
     aspect-ratio: 1/1;
     overflow: hidden;
-    background-color: red;
+    padding-left: 20%;
 }
 
 .blogLinkImg {
