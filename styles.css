@@ -54,12 +54,13 @@ a:hover {
 
 .blogLink:hover {
    color: #D4F6FF;
-   opacity: .8;
+   opacity: .6;
 }
 
 .blogLinkImg {
     width: 150%;
     height: 150%;
     object-fit: cover;
+    display: block;
     margin: 0;
 }
