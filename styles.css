@@ -59,5 +59,6 @@ a:hover {
 
 .blogLinkImg {
     display: inline-block;
-    width: auto;
+    width: fit-content;
+    margin: 0;
 }
