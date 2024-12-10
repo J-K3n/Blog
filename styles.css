@@ -52,15 +52,23 @@ a:hover {
     margin-left: 10%;
 }
 
-.blogLink:hover {
-   color: #D4F6FF;
-   opacity: .6;
-}
-
 .blogLinkImg {
     width: 150%;
     height: 150%;
     object-fit: cover;
     display: block;
     margin: 0;
+}
+
+.blogName {
+    opacity: 1;
+}
+
+.blogLink:hover .blogName{
+   color: #D4F6FF;
+   opacity: .6;
+}
+
+.blogLink:hover .blogLinkImg {
+    opacity: 0;
 }
