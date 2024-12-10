@@ -61,4 +61,5 @@ a:hover {
     width: 150%;
     height: 150%;
     object-fit: cover;
+    margin: 0;
 }
