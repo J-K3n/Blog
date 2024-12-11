@@ -51,6 +51,7 @@ a:hover {
     overflow: hidden;
     padding: 0;
     position: relative;
+    transition: opacity .3s ease;
 }
 
 .blogLink figure {
@@ -76,6 +77,8 @@ a:hover {
 .blogName {
     opacity: 0;
     position: absolute;
+    z-index: 2;
+    transition: opacity .3s ease;
 }
 
 .blogLink:hover {
