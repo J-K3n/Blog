@@ -79,6 +79,11 @@ a:hover {
     position: absolute;
     z-index: 2;
     transition: opacity .3s ease;
+    color: #4da3bb;
+    top: 50%;
+    left: 50%;
+    font-size: 1.5rem;
+    text-shadow: 0px 0px 3px rgba(0, 0, 0 .5);
 }
 
 .blogLink:hover {
@@ -86,6 +91,5 @@ a:hover {
 }
 
 .blogLink:hover .blogName{
-   color: #62bdd6;
    opacity: 1;
 }
