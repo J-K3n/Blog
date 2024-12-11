@@ -50,6 +50,9 @@ a:hover {
     aspect-ratio: 1/1;
     overflow: hidden;
     margin-left: 10%;
+    margin: 0;
+    padding: 0;
+
 }
 
 .blogLinkImg {
@@ -58,6 +61,7 @@ a:hover {
     object-fit: cover;
     display: block;
     margin: 0;
+    padding: 0;
 }
 
 .blogName {
@@ -67,8 +71,4 @@ a:hover {
 .blogLink:hover .blogName{
    color: #D4F6FF;
    opacity: .6;
-}
-
-.blogLink:hover .blogLinkImg {
-    opacity: 0;
 }
