@@ -34,15 +34,15 @@ header {
 }
 
 a {
-    color: #FFDDAE;
+    color: black;
 }
 
 a:visited {
-    color: #FFDDAE;
+    color: rgb(203, 202, 202);
 }
 
 a:hover {
-    color: rgb(168, 139, 86);
+    color: #FFDDAE;
 }
 
 /* Start of blogLink Creation */
@@ -91,7 +91,7 @@ a:hover {
 
 .blogLink:hover {
     opacity: .5;
-    border: 5px #D4F6FF
+    border: 5px rgb(133, 255, 255)
 }
 
 .blogLink:hover .blogName{
