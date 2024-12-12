@@ -49,9 +49,9 @@ a:hover {
 
 .blogLink {
     width: 20%;
+    margin-left: 20%;
     aspect-ratio: 1/1;
     overflow: hidden;
-    align-items: center;
     position: relative;
     transition: opacity .2s ease;
 }
@@ -91,6 +91,7 @@ a:hover {
 
 .blogLink:hover {
     opacity: .5;
+    border: 5px #D4F6FF
 }
 
 .blogLink:hover .blogName{
