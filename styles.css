@@ -51,7 +51,7 @@ a:hover {
     width: 20%;
     aspect-ratio: 1/1;
     overflow: hidden;
-    padding: 20%;
+    align-items: center;
     position: relative;
     transition: opacity .2s ease;
 }
