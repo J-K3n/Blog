@@ -45,11 +45,13 @@ a:hover {
     color: rgb(168, 139, 86);
 }
 
+/* Start of blogLink Creation */
+
 .blogLink {
     width: 20%;
     aspect-ratio: 1/1;
     overflow: hidden;
-    padding: 0;
+    padding: 20%;
     position: relative;
     transition: opacity .2s ease;
 }
@@ -84,7 +86,7 @@ a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 1.5rem;
-    text-shadow: 0px 0px 3px rgba(0, 0, 0 .5);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0 .5);
 }
 
 .blogLink:hover {
