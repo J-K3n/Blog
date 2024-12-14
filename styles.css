@@ -25,7 +25,7 @@ h1, h2, h3, p {
     display: inline-block;
     margin-left: 40px;
     margin-right: 40px;
-    color: #FFDDAE;
+    color: black;
     text-align: center;
 }
 
@@ -34,24 +34,25 @@ header {
 }
 
 a {
-    color: #FFDDAE;
-}
-
-a:visited {
-    color: #FFDDAE;
+    transition: .2s ease;
+    color: black;
 }
 
 a:hover {
-    color: rgb(168, 139, 86);
+    transition: .2s ease;
+    color: #FFDDAE;
 }
+
+/* Start of blogLink Creation */
 
 .blogLink {
     width: 20%;
+    margin-left: 15%;
     aspect-ratio: 1/1;
     overflow: hidden;
-    padding: 0;
     position: relative;
     transition: opacity .2s ease;
+    z-index: 2;
 }
 
 .blogLink figure {
@@ -77,18 +78,18 @@ a:hover {
 .blogName {
     opacity: 0;
     position: absolute;
-    z-index: 2;
+    z-index: 3;
     transition: opacity .2s ease;
-    color: #4da3bb;
+    color: black;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
     font-size: 1.5rem;
-    text-shadow: 0px 0px 3px rgba(0, 0, 0 .5);
+    text-shadow: 0px 0px 10px rgba(0, 0, 0 .5);
 }
 
 .blogLink:hover {
-    opacity: .5;
+    background-color: hwb(0 0% 0%);
+    opacity: .6;
 }
 
 .blogLink:hover .blogName{
