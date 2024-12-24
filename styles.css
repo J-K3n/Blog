@@ -81,15 +81,15 @@ a:hover {
     z-index: 3;
     transition: opacity .2s ease;
     color: black;
-    top: 50%;
-    left: 50%;
+    text-align: center;
     font-size: 1.5rem;
     text-shadow: 0px 0px 10px rgba(0, 0, 0 .5);
 }
 
 .blogLink:hover {
-    background-color: hwb(0 0% 0%);
+    background-color: hwb(187 0% 0%);
     opacity: .6;
+    z-index: 2;
 }
 
 .blogLink:hover .blogName{
