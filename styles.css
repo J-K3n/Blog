@@ -11,10 +11,14 @@ h1, h2 {
 
 h1, h2, h3 {
     font-family: 'Cormorant Garamond', serif;
+    margin: 10%;
+    padding: 10%;
 }
 
 p {
     font-family: serif;
+    margin: 10%;
+    padding: 10%;
 }
 
 main {
