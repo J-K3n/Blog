@@ -17,6 +17,11 @@ p {
     font-family: serif;
 }
 
+main {
+    margin: 0;
+    padding: 0;
+}
+
 .header {
     text-align: center;
 }
@@ -29,12 +34,16 @@ p {
     width: 120%;
     height: 120%;
     object-fit: cover;
+    padding: 0;
+    margin: 0;
 }
 
 .headingImgWrapper {
     width: 100vw;
     height: 120vh;
     overflow: hidden;
+    padding: 0;
+    margin: 0;
 }
 
 .headLink {
