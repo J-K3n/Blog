@@ -21,10 +21,16 @@ p {
 }
 
 .headingImg{
-    width: 80%;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
     display: block;
+}
+
+.headingImgWrapper {
+    width: auto;
+    overflow: hidden;
+    height: 120vh;
 }
 
 .headLink {
