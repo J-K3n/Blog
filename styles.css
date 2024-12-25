@@ -21,9 +21,9 @@ p {
 }
 
 .headingImg{
-    width: 100%;
-    margin-right: auto;
-    margin-left: auto;
+    width: 110%;
+    margin-right: -2px;
+    margin-left: -2px;
     display: block;
 }
 
