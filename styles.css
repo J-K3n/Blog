@@ -38,7 +38,6 @@ p {
 /* Begin of headingImg Creation */
 
 .headingImg{
-    position: fixed;
     width: 120%;
     height: 120%;
     object-fit: cover;
