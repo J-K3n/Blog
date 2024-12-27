@@ -27,11 +27,18 @@ p {
     text-align: center;
 }
 
-.headingCapt{
-    margin-left: 10%;
+.headLink {
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: black;
+    text-align: center;
 }
 
+/* Begin of headingImg Creation */
+
 .headingImg{
+    position: fixed;
     width: 120%;
     height: 120%;
     object-fit: cover;
@@ -47,12 +54,10 @@ p {
     margin: 0;
 }
 
-.headLink {
-    display: inline-block;
-    margin-left: 40px;
-    margin-right: 40px;
-    color: black;
-    text-align: center;
+.headingImgTxt {
+    position: relative;
+    left: %50;
+    transform: translateX(-50%);
 }
 
 header {
