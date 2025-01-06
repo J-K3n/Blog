@@ -5,16 +5,16 @@ html, body, div, figure, figcaption, main{
     padding: 0;
 }
 
-h1, h2 {
-    text-align: center;
-}
-
 h1, h2, h3 {
     font-family: 'Cormorant Garamond', serif;
-    margin: 10%;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding: 5%;
+    margin: 20%;
+    padding: 20%;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 20%;
+    padding: 20%;
 }
 
 p {
