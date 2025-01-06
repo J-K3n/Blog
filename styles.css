@@ -13,8 +13,21 @@ h1, h2, h3 {
 
 h1, h2 {
     text-align: center;
+}
+
+h2, h3 {
+    font-family: 'Cormorant Garamond', serif;
+    margin: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding: 5%;
+}
+
+h1{
+    font-family: 'Cormorant Garamond', serif;
     margin: 20%;
     padding: 20%;
+    font-size: large;
 }
 
 p {
@@ -55,7 +68,7 @@ p {
 
 .headingImgTxt {
     position: relative;
-    left: %50;
+    left: 50%;
     transform: translateX(-50%);
 }
 
