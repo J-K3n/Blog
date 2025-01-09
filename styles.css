@@ -81,7 +81,7 @@ a:hover {
     color: #FFDDAE;
 }
 
-/* Start of blogLink Creation */
+/* theBlog Page Items */
 
 .blogLink {
     width: 20%;
@@ -132,4 +132,10 @@ a:hover {
 
 .blogLink:hover .blogName{
    opacity: 1;
+}
+
+/* Creating elements in individual blog pages */
+
+.blogImage {
+    size: 70%;
 }
