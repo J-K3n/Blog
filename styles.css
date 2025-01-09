@@ -21,12 +21,10 @@ h2, h3 {
     padding-left: 5%;
     padding-right: 5%;
     padding: 5%;
+    font-size: medium;
 }
 
 h1{
-    font-family: 'Cormorant Garamond', serif;
-    margin: 20%;
-    padding: 20%;
     font-size: large;
 }
 
