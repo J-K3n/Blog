@@ -93,7 +93,8 @@ a:hover {
 .blogLink {
     width: 20%;
     margin-bottom: 20%;
-    margin-left: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
     aspect-ratio: 1/1;
     overflow: hidden;
     position: relative;
