@@ -147,5 +147,5 @@ a:hover {
 /* Creating elements in individual blog pages */
 
 .blogImage {
-    size: 70%;
+    width: 70%;
 }
