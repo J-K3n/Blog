@@ -2,7 +2,7 @@
 
 /* set general margin rules and backround */
 
-html, body, header, figure, figcaption, main{
+ul, body, header, figure, figcaption, main{
     margin: 0;
     padding: 0;
 }
@@ -55,7 +55,7 @@ p {
     display: inline-block;
     margin-left: 40px;
     margin-right: 40px;
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -63,7 +63,6 @@ p {
 
 .headingImgWrapper {
     position: relative;
-    top: 100px;
     width: 100%;
     height: auto;
     overflow: hidden;
