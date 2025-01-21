@@ -8,9 +8,11 @@ html, body, div, figure, figcaption, main{
 }
 
 .background{
-    background: linear-gradient(hsl(182, 100%, 82%), hsl(0, 0%, 100%));
+    background: linear-gradient(hsl(181, 100%, 91%), hsl(0, 0%, 100%));
     z-index: 0;
 }
+
+/* Set general rules for heading and paragraph text */
 
 h1, h2, h3 {
     font-family: 'Cormorant Garamond', serif;
@@ -82,12 +84,13 @@ p {
 }
 
 .headingImgTxt{
+    position: relative;
     z-index: 2;
     text-shadow: 2px 2px 4px black;
 }
 
 header {
-    background-color: #D4F6FF;
+    background-color: #000000;
 }
 
 a {
