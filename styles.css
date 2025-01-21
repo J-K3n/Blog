@@ -54,7 +54,7 @@ p {
 
 .headingImg{
     position: absolute;
-    top: -200px;
+    top: -100px;
     width: 110%;
     height: 110%;
     object-fit: cover;
@@ -64,6 +64,7 @@ p {
 
 .headingImgWrapper {
     position: relative;
+    top: 100px;
     width: 100%;
     height: auto;
     overflow: hidden;
