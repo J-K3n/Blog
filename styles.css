@@ -2,13 +2,13 @@
 
 /* set general margin rules and backround */
 
-html, body, div, figure, figcaption, main{
+html, body, header, figure, figcaption, main{
     margin: 0;
     padding: 0;
 }
 
 .background{
-    background: linear-gradient(hsl(181, 100%, 91%), hsl(0, 0%, 100%));
+    background: linear-gradient(hsl(181, 100%, 91%), hsl(181, 100%, 91%), hsl(0, 0%, 100%));
     z-index: 0;
 }
 
@@ -61,17 +61,6 @@ p {
 
 /* Begin of headingImg Creation */
 
-.headingImg{
-    position: absolute;
-    top: -100px;
-    width: 110%;
-    height: 110%;
-    object-fit: cover;
-    padding: 0;
-    margin: 0;
-    z-index: inherit
-}
-
 .headingImgWrapper {
     position: relative;
     top: 100px;
@@ -83,10 +72,28 @@ p {
     z-index: 1;
 }
 
+.headingFigure{
+    position: absolute;
+    z-index: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+.headingImg{
+    position: absolute;
+    top: -100px;
+    width: 110%;
+    height: 110%;
+    object-fit: cover;
+    padding: 0;
+    margin: 0;
+    z-index: inherit
+}
+
 .headingImgTxt{
     position: relative;
     z-index: 2;
-    text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
 }
 
 header {
@@ -95,12 +102,12 @@ header {
 
 a {
     transition: .2s ease;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 a:hover {
     transition: .2s ease;
-    color: #FFDDAE;
+    color: #ffdaa7;
 }
 
 /* theBlog Page Items */
