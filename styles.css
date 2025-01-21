@@ -1,8 +1,15 @@
 @import url(https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&display=swap);
 
+/* set general margin rules and backround */
+
 html, body, div, figure, figcaption, main{
     margin: 0;
     padding: 0;
+}
+
+.background{
+    background: linear-gradient(hsl(182, 100%, 82%), hsl(0, 0%, 100%));
+    z-index: 0;
 }
 
 h1, h2, h3 {
