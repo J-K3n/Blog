@@ -53,7 +53,7 @@ p {
 /* Begin of headingImg Creation */
 
 .headingImg{
-    position: relative;
+    position: absolute;
     top: -200px;
     width: 110%;
     height: 110%;
@@ -63,6 +63,7 @@ p {
 }
 
 .headingImgWrapper {
+    position: relative;
     width: 100%;
     height: auto;
     overflow: hidden;
