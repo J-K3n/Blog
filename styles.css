@@ -60,6 +60,7 @@ p {
     object-fit: cover;
     padding: 0;
     margin: 0;
+    z-index: inherit
 }
 
 .headingImgWrapper {
@@ -70,6 +71,11 @@ p {
     overflow: hidden;
     padding: 0;
     margin: 0;
+    z-index: 1;
+}
+
+.headingImgTxt{
+    z-index: 2;
 }
 
 header {
