@@ -184,3 +184,12 @@ a:hover {
     margin: auto;
     display: inline-block;
 }
+
+.blogImageCaption {
+    display: inline-block;
+    text-align: center;
+}
+
+.linkInBlog {
+    color: aqua;
+}
