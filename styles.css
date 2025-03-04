@@ -175,6 +175,16 @@ a:hover {
 
 /* Creating elements in individual blog pages */
 
+.parallaxHeader {
+    background-image: url("TheBlog/SapporoTrip/Sapporo%20Trip!%20-%20Pictures/Mountains%20Outside%20of%20Daibutsu.JPG");
+    min-height: 300px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .blogImageContainer {
     text-align: center;
     padding: 2em;
