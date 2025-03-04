@@ -43,7 +43,7 @@ h2{
 
 p {
     font-family: serif;
-    margin: 10%;
+    margin: 5em;
     font-size: 120%;
 }
 
@@ -177,17 +177,17 @@ a:hover {
 
 .blogImageContainer {
     text-align: center;
-    padding: 10em;
+    padding: 2em;
 }
 
 .blogImage {
-    width: 50%;
+    width: 70%;
     margin: auto;
     display: inline-block;
 }
 
 .blogImageCaption {
-    display: inline;
+    display: block;
     text-align: center;
 }
 
