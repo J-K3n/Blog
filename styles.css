@@ -177,6 +177,7 @@ a:hover {
 
 .blogImageContainer {
     text-align: center;
+    padding: 10em;
 }
 
 .blogImage {
@@ -186,7 +187,7 @@ a:hover {
 }
 
 .blogImageCaption {
-    display: inline-block;
+    display: inline;
     text-align: center;
 }
 
