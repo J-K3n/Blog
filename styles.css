@@ -164,7 +164,7 @@ a:hover {
     text-shadow: 0px 0px 10px rgba(0, 0, 0 .5);
 }
 
-.blogLinkImg:hover {
+.blogLink:hover ~ .blogLinkImage{
     color: hwb(187 0% 0%);
     opacity: .6;
     z-index: 2;
