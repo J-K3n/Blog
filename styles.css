@@ -162,7 +162,7 @@ a:hover {
     color: black;
     text-align: center;
     left: 5%;
-    top: 5%;
+    top: 10%;
     font-size: 2rem;
     text-shadow: 0px 0px 10px rgba(0, 0, 0 .5);
 }
