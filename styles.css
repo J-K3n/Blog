@@ -220,7 +220,7 @@ a:hover {
     margin: 0;
     margin-top: 2em;
     margin-left: 2em;
-    padding-top: 3em;
+    padding-top: 5em;
     padding-left: 3em;
     font-size: 200%;
 }
@@ -228,6 +228,6 @@ a:hover {
 .blogFirstP{
     font-family: serif;
     margin: 5em;
-    margin-top: 3em;
+    margin-top: 2em;
     font-size: 120%;
 }
