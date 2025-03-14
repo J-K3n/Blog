@@ -215,7 +215,7 @@ a:hover {
 }
 
 .blogSubheader{
-    margin: 2em;
-    padding: 5em;
+    margin: 0 0 0 2em;
+    padding: 3em 3em 3em 5em;
     font-size: 200%;
 }
