@@ -14,7 +14,7 @@ ul, body, header, figure, figcaption, main{
 
 /* Set general rules for heading and paragraph text */
 
-h1, h2, h3 {
+h3 {
     font-family: 'Cormorant Garamond', serif;
     margin: 5%;
     padding: 5%;
@@ -26,9 +26,9 @@ h1, h2 {
 
 h2, h3 {
     font-family: 'Cormorant Garamond', serif;
-    padding-left: -2%;
-    padding-right: -2%;
-    padding: -2;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding: 3%;
     font-size: medium;
 }
 
@@ -217,7 +217,9 @@ a:hover {
 .blogSubheader{
     margin: 0;
     margin-top: 2em;
+    margin-left: 2em;
     padding: 1em;
     padding-top: 3em;
+    padding-left: 3em;
     font-size: 200%;
 }
