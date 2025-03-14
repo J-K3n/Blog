@@ -213,3 +213,9 @@ a:hover {
 .linkInBlog {
     color: aqua;
 }
+
+.blogSubheader{
+    margin: 2em;
+    padding: 5em;
+    font-size: 200%;
+}
