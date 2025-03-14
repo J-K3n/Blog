@@ -14,31 +14,28 @@ ul, body, header, figure, figcaption, main{
 
 /* Set general rules for heading and paragraph text */
 
-h3 {
-    font-family: 'Cormorant Garamond', serif;
-    margin: 5%;
-    padding: 5%;
+h1{
+    font-size: 380%;
+    padding-top: 5%;
 }
 
 h1, h2 {
     text-align: center;
 }
 
-h2, h3 {
-    font-family: 'Cormorant Garamond', serif;
-    padding-left: 3%;
-    padding-right: 3%;
-    padding: 3%;
-    font-size: medium;
-}
-
-h1{
-    font-size: 380%;
-    padding-top: 5%;
-}
-
 h2{
     font-size: 200%;
+}
+
+h2, h3 {
+    font-family: 'Cormorant Garamond', serif;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding: 5%;
+}
+
+h3 {
+    font-size: 175%;
 }
 
 p {
