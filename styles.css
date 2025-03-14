@@ -116,6 +116,11 @@ a:hover {
     justify-content: space-between;
 }
 
+.blogLinkContainer::after{
+    content: "";
+    width: 20%;
+}
+
 .blogLink {
     width: 20%;
     margin-bottom: 20%;
