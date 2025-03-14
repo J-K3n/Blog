@@ -222,3 +222,10 @@ a:hover {
     padding-left: 3em;
     font-size: 200%;
 }
+
+.blogFirstP{
+    font-family: serif;
+    margin: 5em;
+    margin-top: 3em;
+    font-size: 120%;
+}
