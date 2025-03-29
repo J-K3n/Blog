@@ -235,6 +235,7 @@ a:hover {
 /* Rules for review page */
 
 .musicReviewList{
+    margin: 20px;
     display: flexbox;
     flex-wrap: wrap;
 }
@@ -247,5 +248,7 @@ a:hover {
 }
 
 .musicReview > img {
+    height: 100%;
+    width: 100%;
     object-fit: cover;
 }
