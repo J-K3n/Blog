@@ -265,7 +265,7 @@ a:hover {
     opacity: .4;
 }
 
-.albumcoverImage{
+img.albumcoverImage{
     width: 40%;
     display: flex;
     justify-content: center;
