@@ -266,7 +266,7 @@ a:hover {
 }
 
 .albumcoverImage{
-    width: 60%;
-    margin: auto;
-    display: inline-block;
+    width: 40%;
+    display: flex;
+    justify-content: center;
 }
