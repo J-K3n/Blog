@@ -255,5 +255,10 @@ a:hover {
 
 .musicReview:hover .musicReview img{
     opacity: .40%;
-    
+}
+
+.albumcoverImage{
+    width: 60%;
+    margin: auto;
+    display: inline-block;
 }
